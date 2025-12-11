@@ -1,0 +1,7 @@
+pyproject.toml
+tradingagents.egg-info/PKG-INFO
+tradingagents.egg-info/SOURCES.txt
+tradingagents.egg-info/dependency_links.txt
+tradingagents.egg-info/entry_points.txt
+tradingagents.egg-info/requires.txt
+tradingagents.egg-info/top_level.txt
